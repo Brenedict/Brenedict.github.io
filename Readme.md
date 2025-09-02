@@ -1,6 +1,6 @@
 # Generative Quiz Application 🎯
 
-This is a **dynamic quiz application** that generates questions based on various topics. Users can select a quiz category and test their knowledge while receiving real-time feedback.
+This is a **dynamic quiz application** that generates questions based on various topics. Users can select a quiz category and test their knowledge while receiving real-time feedback. **This was way back in february 2025, I'm mainly showing this for fun**.
 
 ## Features 🚀
 - Multiple quiz categories to choose from.
